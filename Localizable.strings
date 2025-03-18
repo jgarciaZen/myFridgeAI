@@ -1,0 +1,22 @@
+/* Localizable.strings */
+
+/* General greetings and instructions */
+"welcome_message" = "Welcome to Grocery & Meal Planner!";
+"login_button" = "Login";
+"signup_button" = "Sign Up";
+
+/* Receipt scanning */
+"scan_receipt" = "Scan Receipt";
+"verify_receipt" = "Verify Receipt Items";
+
+/* Inventory */
+"inventory_title" = "Inventory";
+"add_item" = "Add Item";
+"remove_item" = "Remove Item";
+
+/* Meal planning */
+"meal_plan_title" = "Meal Plans";
+"generate_meal_plan" = "Generate Meal Plan";
+
+/* Shopping list */
+"shopping_list_title" = "Shopping List";
